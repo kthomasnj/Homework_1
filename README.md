@@ -1,4 +1,4 @@
-# Horiseon Thomas
+# Horiseon
 
 ## Description
 
